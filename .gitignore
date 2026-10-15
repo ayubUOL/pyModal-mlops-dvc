@@ -1,0 +1,6 @@
+mlruns/
+mlflow.db
+model.pkl
+__pycache__/
+
+/houses.csv
