@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://mlflow-dvc-storage-2026-a8f31c/dvc
+    profile = dvc
+    region = us-east-1
